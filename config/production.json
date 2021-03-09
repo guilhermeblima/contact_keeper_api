@@ -2,4 +2,3 @@
 	"mongoURI": "mongodb+srv://guilhermeblima000:<password>@contact-keeper-000.wftwu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
 	"jwtSecret": "secret"
 }
-W
